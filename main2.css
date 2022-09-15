@@ -1,0 +1,19 @@
+@media screen and (orientation:landscape) {
+    #div2 {
+        height: 400px;
+        width: 400px;
+        background-color: aliceblue;
+    }
+}
+
+#div6{
+    display: none;
+}
+
+#div7{
+    display: none;
+}
+
+#div8{
+    display: none;
+}
